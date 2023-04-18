@@ -1,0 +1,11 @@
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\bin\Debug\net5.0\PayCompute.Entity.deps.json
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\bin\Debug\net5.0\PayCompute.Entity.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\bin\Debug\net5.0\ref\PayCompute.Entity.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\bin\Debug\net5.0\PayCompute.Entity.pdb
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.AssemblyInfoInputs.cache
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.AssemblyInfo.cs
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.csproj.CoreCompileInputs.cache
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\ref\PayCompute.Entity.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.pdb

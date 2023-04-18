@@ -1,0 +1,17 @@
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Services.deps.json
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Services.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\ref\PayCompute.Services.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Services.pdb
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Entity.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Persistance.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Entity.pdb
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Persistance.pdb
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.csproj.AssemblyReference.cache
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.AssemblyInfoInputs.cache
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.AssemblyInfo.cs
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.csproj.CoreCompileInputs.cache
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.csproj.CopyComplete
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\ref\PayCompute.Services.dll
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.pdb
