@@ -23,6 +23,7 @@ namespace PayCompute.Entity
         public string ImageUrl { get; set; }
         public DateTime DOB { get; set; }
         public DateTime DateJoined { get; set; }
+        public string Phone { get; set; }
         public string Designation { get; set; }
         public string Email { get; set; }
         [Required,MaxLength(50)]
@@ -34,7 +35,7 @@ namespace PayCompute.Entity
         public string Address { get; set; }
         [Required, MaxLength(50)]
         public string City { get; set; }
-        [Required, MaxLength(6)]
+        [Required, MaxLength(50)]
         public string PostCode { get; set; }
         public IEnumerable<PaymentRecord> PaymentRecord { get; set; }
 
