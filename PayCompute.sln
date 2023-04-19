@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33423.256
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayCompute", "PayCompute\PayCompute.csproj", "{01FEF80B-0680-4BFC-8E8D-4D15B75F4C31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayCompute", "PayCompute\PayCompute.csproj", "{01FEF80B-0680-4BFC-8E8D-4D15B75F4C31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayCompute.Services", "PayCompute.Services\PayCompute.Services.csproj", "{018C9DC9-EFCA-4028-8930-8DFCB4830C3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayCompute.Services", "PayCompute.Services\PayCompute.Services.csproj", "{018C9DC9-EFCA-4028-8930-8DFCB4830C3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayCompute.Persistance", "PayCompute.Persistance\PayCompute.Persistance.csproj", "{C9B57D99-5A11-4847-AD67-4B08A1182BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayCompute.Persistance", "PayCompute.Persistance\PayCompute.Persistance.csproj", "{C9B57D99-5A11-4847-AD67-4B08A1182BF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayCompute.Entity", "PayCompute.Entity\PayCompute.Entity.csproj", "{33DDEB29-3D48-4D3F-AEEF-9DF067C72DB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayCompute.Entity", "PayCompute.Entity\PayCompute.Entity.csproj", "{33DDEB29-3D48-4D3F-AEEF-9DF067C72DB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
