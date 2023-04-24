@@ -6,7 +6,6 @@ C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayComput
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Persistance.dll
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Entity.pdb
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\bin\Debug\net5.0\PayCompute.Persistance.pdb
-C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.csproj.AssemblyReference.cache
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.GeneratedMSBuildEditorConfig.editorconfig
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.AssemblyInfoInputs.cache
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Services\obj\Debug\net5.0\PayCompute.Services.AssemblyInfo.cs

@@ -9,3 +9,4 @@ C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayComput
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.dll
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\ref\PayCompute.Entity.dll
 C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.pdb
+C:\Project Knowledge Transition\C# concepts\ASP dot NET MVC\PayCompute\PayCompute.Entity\obj\Debug\net5.0\PayCompute.Entity.csproj.AssemblyReference.cache
